@@ -4,6 +4,9 @@
 **Here is a List of all the organisations participated in GSoC from 2005 to 2019 extracted from backend data of official Gsoc website.**\
 **Hope this might be useful for someone.**
 
+> It is not in a proper JSON format and needed to be modified
+
+
 ```
         {
                 "3DTK": [2018],
